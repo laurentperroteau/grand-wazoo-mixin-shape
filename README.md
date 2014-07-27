@@ -7,4 +7,4 @@ Grand Wazoo Mixin Shape
 
 Install using Bower:
 
-    $ bower install --save grand-wazoo-mixin-position
+    $ bower install --save grand-wazoo-mixin-shape
