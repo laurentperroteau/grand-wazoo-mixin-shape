@@ -5,7 +5,7 @@
   "authors": [
     "laurentperroteau <laurentperroteau@gmail.com>"
   ],
-  "description": "Mixins that simplified the use of position property",
+  "description": "Mixins to create shape",
   "main": "_mixin.shape.scss",
   "keywords": [
     "grandwazoo",
