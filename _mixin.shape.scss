@@ -1,6 +1,6 @@
 
 // ------------------------------- //
-// ::: Grand Wazoo Mixin Shape ::: //
+// ::: Yupik Mixin Shape ::: //
 // --------------------------------//
 
 
@@ -8,7 +8,7 @@
 // ==========
 // @param $size => size of cube (pass unit if don't want px)
 @mixin cube($size) {
-    width: testUnit($size); height: testUnit($size);
+    width: testUnit($size); height: testUnit($size); 
 }
 
 

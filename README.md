@@ -1,4 +1,4 @@
-Grand Wazoo Mixin Shape
+Yupik Mixin Shape
 =======================
 
 ## reworking in progress !
@@ -7,4 +7,4 @@ Grand Wazoo Mixin Shape
 
 Install using Bower:
 
-    $ bower install --save grand-wazoo-mixin-shape
+    $ bower install --save yupik-mixin-shape
