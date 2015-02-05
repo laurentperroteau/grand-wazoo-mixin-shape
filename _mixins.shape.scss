@@ -17,7 +17,6 @@
 // @param $size => size of circle (pass unit if don't want px)
 @mixin circle($size) {
     width: testUnit($size); height: testUnit($size);
-    // @include border-radius( testUnit($size) );
     @include vendor(border-radius, testUnit($size));
 }
 

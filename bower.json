@@ -1,11 +1,11 @@
 {
   "name": "yupik-mixin-shape",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "homepage": "https://github.com/laurentperroteau/yupik-mixin-shape",
   "authors": [
     "laurentperroteau <laurentperroteau@gmail.com>"
   ],
-  "description": "Mixins to create shape",
+  "description": "Mixins to create shapes",
   "main": "_mixin.shape.scss",
   "keywords": [
     "grandwazoo",
@@ -24,6 +24,7 @@
     "tests"
   ],
   "dependencies": {
-    "yupik-function": "~0.0.1"
+    "yupik-function": "~0.0.1",
+    "yupik-mixin-vendor": "~0.0.1"
   }
 }

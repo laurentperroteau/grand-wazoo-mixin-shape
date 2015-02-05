@@ -1,9 +1,9 @@
 Yupik Mixin Shape
 =================
 
-## reworking in progress !
+### Mixins to create shapes
 
-### Mixins to create shape
+> Is part of [Yupik collection of modules](https://github.com/laurentperroteau/yupik)
 
 Install using Bower:
 
